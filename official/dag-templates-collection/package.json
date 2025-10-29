@@ -1,0 +1,17 @@
+{
+  "name": "@bigmind/dag-templates-collection",
+  "version": "1.0.0",
+  "description": "3 professional DAG templates",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc && vite build",
+    "dev": "vite build --watch"
+  },
+  "peerDependencies": {
+    "@bigmind/plugin-system": "*"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "vite": "^5.0.0"
+  }
+}

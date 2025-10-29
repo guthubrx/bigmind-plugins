@@ -1,0 +1,17 @@
+{
+  "id": "com.bigmind.dag-templates-collection",
+  "name": "DAG Templates Collection",
+  "version": "1.0.0",
+  "description": "3 templates DAG professionnels pour démarrer rapidement vos projets",
+  "author": {
+    "name": "BigMind Team",
+    "email": "team@bigmind.com"
+  },
+  "main": "dist/index.js",
+  "icon": "📋",
+  "category": "productivity",
+  "tags": ["templates", "dag", "structures", "productivity"],
+  "license": "MIT",
+  "source": "official",
+  "featured": true
+}
