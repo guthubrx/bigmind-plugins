@@ -3,15 +3,84 @@
   "name": "DAG Templates Collection",
   "version": "1.0.0",
   "description": "3 templates DAG professionnels pour démarrer rapidement vos projets",
+  "longDescription": "Trois structures complètes et prêtes à l'emploi pour vous faire gagner du temps sur vos projets les plus courants. Chaque template inclut une hiérarchie de tags pré-configurée avec des couleurs harmonieuses et des relations logiques.\n\n**Vos projets, instantanément structurés**\n\nQue vous documentiez une taxonomie biologique, conceviez une architecture logicielle ou planifiez un projet en cascade, ces templates vous offrent une base solide pour construire vos cartes mentales. Plus besoin de recréer la même structure à chaque fois : appliquez le template et concentrez-vous sur le contenu.",
   "author": {
     "name": "BigMind Team",
     "email": "team@bigmind.com"
   },
-  "main": "dist/index.js",
+  "main": "index.js",
   "icon": "📋",
+  "logo": "/assets/plugin-logos/dag-templates-collection.svg",
+  "color": "#06B6D4",
   "category": "productivity",
   "tags": ["templates", "dag", "structures", "productivity"],
   "license": "MIT",
+  "bigmindVersion": "1.0.0",
   "source": "official",
-  "featured": true
+  "pricing": "free",
+  "featured": true,
+  "autoActivate": false,
+  "tagline": "Structures professionnelles prêtes à l'emploi",
+  "benefits": [
+    "Biological Taxonomy : hiérarchie scientifique complète (Royaume → Phylum → Classe)",
+    "Software Architecture : architecture en couches pour vos projets techniques",
+    "Project Process : phases de projet en cascade (Waterfall)",
+    "Templates favoris marqués pour accès rapide",
+    "Couleurs harmonieuses pré-configurées",
+    "Relations hiérarchiques déjà établies"
+  ],
+  "useCases": [
+    "Documentation scientifique : classifier des espèces avec Biological Taxonomy",
+    "Conception logicielle : structurer votre code avec Software Architecture",
+    "Gestion de projet : planifier les phases avec Project Process",
+    "Apprentissage : comprendre des structures hiérarchiques complexes"
+  ],
+  "features": [
+    {
+      "label": "Biological Taxonomy",
+      "description": "Classification hiérarchique biologique (Royaume → Phylum → Classe)",
+      "icon": "🧬"
+    },
+    {
+      "label": "Software Architecture",
+      "description": "Architecture logicielle en couches (Présentation → Logic → Data)",
+      "icon": "🏗️"
+    },
+    {
+      "label": "Project Process",
+      "description": "Phases de projet en cascade (Concept → Design → Dev → Test → Deploy)",
+      "icon": "📊"
+    }
+  ],
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2025-01-28",
+      "changes": [
+        {
+          "type": "added",
+          "description": "Template \"Biological Taxonomy\" (favori)"
+        },
+        {
+          "type": "added",
+          "description": "Template \"Software Architecture\" (favori)"
+        },
+        {
+          "type": "added",
+          "description": "Template \"Project Process\""
+        }
+      ]
+    }
+  ],
+  "hooks": {
+    "listens": [],
+    "emits": []
+  },
+  "uiContributions": {
+    "commands": [],
+    "menus": [],
+    "panels": [],
+    "settings": false
+  },
+  "permissions": []
 }
