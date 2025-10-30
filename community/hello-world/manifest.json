@@ -6,7 +6,8 @@
   "longDescription": "Un plugin simple pour vous aider à comprendre comment créer vos propres plugins BigMind. Inclut des exemples de commandes, hooks, et UI contributions.\n\n**Parfait pour commencer**\n\nExplorez le code source pour voir comment enregistrer des commandes, écouter des événements, et interagir avec l'API BigMind. Ce plugin est entièrement commenté et sert de template pour vos propres créations.",
   "author": {
     "name": "BigMind Team",
-    "email": "team@bigmind.com"
+    "email": "team@bigmind.com",
+    "github": "guthubrx"
   },
   "main": "dist/index.js",
   "icon": "👋",

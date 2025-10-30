@@ -3,7 +3,11 @@
   "name": "Plugin Analytics",
   "version": "1.0.0",
   "description": "Analyse et collecte des statistiques sur vos mindmaps (exemple)",
-  "author": "BigMind Team",
+  "author": {
+    "name": "BigMind Team",
+    "email": "team@bigmind.com",
+    "github": "guthubrx"
+  },
   "main": "dist/index.js",
   "permissions": [],
   "hooks": {

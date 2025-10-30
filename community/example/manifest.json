@@ -3,7 +3,11 @@
   "name": "Plugin Exemple",
   "version": "1.0.0",
   "description": "Un plugin d'exemple pour démontrer les fonctionnalités du système",
-  "author": "BigMind Team",
+  "author": {
+    "name": "BigMind Team",
+    "email": "team@bigmind.com",
+    "github": "guthubrx"
+  },
   "main": "dist/index.js",
   "permissions": [],
   "hooks": {
