@@ -4,7 +4,7 @@
   "description": "41 professional color palettes",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc && vite build",
+    "build": "vite build",
     "dev": "vite build --watch"
   },
   "peerDependencies": {

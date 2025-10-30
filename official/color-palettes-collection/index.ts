@@ -8,7 +8,7 @@ import {
   registerPalettes,
   unregisterPalette,
   type ColorPalette,
-} from '../../../themes/colorPalettes';
+} from './colorPalettes';
 
 // FR: Collection complète de 41 palettes de couleurs
 // EN: Complete collection of 41 color palettes
