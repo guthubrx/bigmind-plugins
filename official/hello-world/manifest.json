@@ -1,21 +1,78 @@
 {
-  "id": "hello-world",
+  "id": "com.bigmind.hello-world",
   "name": "Hello World",
   "version": "1.0.0",
-  "description": "Example plugin demonstrating the BigMind plugin API",
+  "description": "Plugin d'exemple pour démontrer les capacités du système de plugins",
+  "longDescription": "Un plugin simple pour vous aider à comprendre comment créer vos propres plugins BigMind. Inclut des exemples de commandes, hooks, et UI contributions.\n\n**Parfait pour commencer**\n\nExplorez le code source pour voir comment enregistrer des commandes, écouter des événements, et interagir avec l'API BigMind. Ce plugin est entièrement commenté et sert de template pour vos propres créations.",
   "author": {
     "name": "BigMind Team",
-    "email": "plugins@bigmind.app"
+    "email": "team@bigmind.com"
   },
-  "license": "MIT",
   "main": "dist/index.js",
-  "permissions": [],
-  "api": {
-    "version": "1.0.0",
-    "hooks": ["onLoad", "onUnload"]
+  "icon": "👋",
+  "logo": "/assets/plugin-logos/hello-world.svg",
+  "color": "#3B82F6",
+  "category": "productivity",
+  "tags": ["example", "demo", "getting-started", "tutorial"],
+  "source": "official",
+  "pricing": "free",
+  "featured": false,
+  "autoActivate": false,
+  "license": "MIT",
+  "bigmindVersion": "1.0.0",
+  "tagline": "Votre premier plugin BigMind",
+  "benefits": [
+    "Code source simple et bien commenté",
+    "Exemples de commandes et hooks",
+    "Template prêt à copier pour vos plugins",
+    "Documentation intégrée"
+  ],
+  "useCases": [
+    "Apprendre à créer des plugins BigMind",
+    "Comprendre l'architecture du système de plugins",
+    "Utiliser comme base pour vos propres plugins",
+    "Tester l'installation de plugins distants"
+  ],
+  "features": [
+    {
+      "label": "Commande Hello World",
+      "description": "Affiche un message de bienvenue dans la console",
+      "icon": "👋"
+    },
+    {
+      "label": "Code commenté",
+      "description": "Chaque ligne est expliquée pour faciliter l'apprentissage",
+      "icon": "📖"
+    },
+    {
+      "label": "Template réutilisable",
+      "description": "Copiez et adaptez pour créer vos propres plugins",
+      "icon": "🎯"
+    }
+  ],
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2025-01-28",
+      "changes": [
+        {
+          "type": "added",
+          "description": "Plugin d'exemple initial"
+        }
+      ]
+    }
+  ],
+  "hooks": {
+    "listens": [],
+    "emits": []
   },
-  "category": "example",
-  "tags": ["example", "tutorial"],
+  "uiContributions": {
+    "commands": ["hello.world"],
+    "menus": [],
+    "panels": [],
+    "settings": false
+  },
+  "permissions": [],
   "repository": {
     "type": "git",
     "url": "https://github.com/guthubrx/bigmind-plugins"
