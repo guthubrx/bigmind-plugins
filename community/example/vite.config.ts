@@ -7,7 +7,7 @@ export default defineConfig({
       entry: path.resolve(__dirname, 'index.ts'),
       name: 'Example',
       fileName: () => 'index.js',
-      formats: ['es']
+      formats: ['iife']
     },
     rollupOptions: {
       external: ['react', 'react-dom', '@bigmind/plugin-system'],
