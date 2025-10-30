@@ -74,8 +74,5 @@
     "settings": false
   },
   "permissions": [],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/guthubrx/bigmind-plugins"
-  }
+  "repository": "https://github.com/guthubrx/bigmind-plugins"
 }
