@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-10-29T23:00:00Z",
+  "lastUpdated": "2025-10-30T08:00:00Z",
   "plugins": [
     {
       "id": "com.bigmind.hello-world",
@@ -11,17 +11,17 @@
         "name": "BigMind Team",
         "email": "team@bigmind.com"
       },
-      "source": "official",
+      "source": "community",
       "category": "productivity",
       "tags": ["example", "demo", "getting-started"],
       "icon": "👋",
-      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/official/hello-world/dist/index.js",
-      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/official/hello-world/manifest.json",
+      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/community/hello-world/dist/index.js",
+      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/community/hello-world/manifest.json",
       "downloads": 0,
       "rating": 0,
       "reviewCount": 0,
       "featured": false,
-      "lastUpdated": "2025-10-29T12:00:00Z"
+      "lastUpdated": "2025-10-30T08:00:00Z"
     },
     {
       "id": "com.bigmind.color-palettes-collection",
@@ -169,6 +169,69 @@
       "reviewCount": 142,
       "featured": false,
       "lastUpdated": "2025-10-29T12:00:00Z"
+    },
+    {
+      "id": "com.bigmind.analytics",
+      "name": "Plugin Analytics",
+      "version": "1.0.0",
+      "description": "Analyse et collecte des statistiques sur vos mindmaps (exemple)",
+      "author": {
+        "name": "BigMind Team",
+        "email": "team@bigmind.com"
+      },
+      "source": "community",
+      "category": "developer",
+      "tags": ["analytics", "statistics", "example"],
+      "icon": "📊",
+      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/community/analytics/dist/index.js",
+      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/community/analytics/manifest.json",
+      "downloads": 0,
+      "rating": 0,
+      "reviewCount": 0,
+      "featured": false,
+      "lastUpdated": "2025-10-30T08:00:00Z"
+    },
+    {
+      "id": "com.bigmind.event-monitor",
+      "name": "Event Monitor",
+      "version": "1.0.0",
+      "description": "Capture et affiche tous les événements système pour le debug",
+      "author": {
+        "name": "BigMind Team",
+        "email": "team@bigmind.com"
+      },
+      "source": "community",
+      "category": "developer",
+      "tags": ["debug", "events", "monitoring", "developer"],
+      "icon": "🔍",
+      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/community/event-monitor/dist/index.js",
+      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/community/event-monitor/manifest.json",
+      "downloads": 0,
+      "rating": 0,
+      "reviewCount": 0,
+      "featured": false,
+      "lastUpdated": "2025-10-30T08:00:00Z"
+    },
+    {
+      "id": "com.bigmind.example",
+      "name": "Plugin Exemple",
+      "version": "1.0.0",
+      "description": "Un plugin d'exemple pour démontrer les fonctionnalités du système",
+      "author": {
+        "name": "BigMind Team",
+        "email": "team@bigmind.com"
+      },
+      "source": "community",
+      "category": "example",
+      "tags": ["example", "demo", "tutorial"],
+      "icon": "📚",
+      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/community/example/dist/index.js",
+      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/community/example/manifest.json",
+      "downloads": 0,
+      "rating": 0,
+      "reviewCount": 0,
+      "featured": false,
+      "lastUpdated": "2025-10-30T08:00:00Z"
     }
   ]
 }

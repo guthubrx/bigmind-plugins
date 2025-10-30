@@ -1,0 +1,19 @@
+{
+  "name": "@bigmind/hello-world",
+  "version": "1.0.0",
+  "description": "Hello World example plugin",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite build --watch"
+  },
+  "peerDependencies": {
+    "@bigmind/plugin-system": "*",
+    "react": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "typescript": "^5.0.0",
+    "vite": "^5.0.0"
+  }
+}
