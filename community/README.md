@@ -1,6 +1,6 @@
 # Community Plugins
 
-This directory contains plugins contributed by the BigMind community.
+This directory contains plugins contributed by the Cartae community.
 
 ## Submit Your Plugin
 
@@ -25,6 +25,6 @@ Check back soon for community-contributed plugins!
 
 ## Need Help?
 
-- [Plugin Development Guide](https://docs.bigmind.app/plugins)
-- [Discord Community](https://discord.gg/bigmind)
-- [GitHub Issues](https://github.com/guthubrx/bigmind/issues)
+- [Plugin Development Guide](https://docs.cartae.app/plugins)
+- [Discord Community](https://discord.gg/cartae)
+- [GitHub Issues](https://github.com/guthubrx/cartae/issues)

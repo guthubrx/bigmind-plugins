@@ -3,7 +3,7 @@
  * Demonstrates basic plugin functionality
  */
 
-import type { Plugin, PluginManifest, PluginContext } from '@bigmind/plugin-system';
+import type { Plugin, PluginManifest, PluginContext } from '@cartae/plugin-system';
 
 const manifest: PluginManifest = {
   id: 'com.bigmind.example',

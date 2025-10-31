@@ -3,7 +3,7 @@
   "lastUpdated": "2025-10-30T08:00:00Z",
   "plugins": [
     {
-      "id": "com.bigmind.hello-world",
+      "id": "com.cartae.hello-world",
       "name": "Hello World",
       "version": "1.0.0",
       "description": "Plugin d'exemple pour démontrer les capacités du système de plugins",
@@ -15,8 +15,8 @@
       "category": "productivity",
       "tags": ["example", "demo", "getting-started"],
       "icon": "👋",
-      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/community/hello-world/dist/index.js",
-      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/community/hello-world/manifest.json",
+      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/cartae-plugins/main/community/hello-world/dist/index.js",
+      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/cartae-plugins/main/community/hello-world/manifest.json",
       "downloads": 0,
       "rating": 0,
       "reviewCount": 0,
@@ -24,7 +24,7 @@
       "lastUpdated": "2025-10-30T08:00:00Z"
     },
     {
-      "id": "com.bigmind.color-palettes-collection",
+      "id": "com.cartae.color-palettes-collection",
       "name": "Color Palettes Collection",
       "version": "1.0.0",
       "description": "41 palettes de couleurs professionnelles pour sublimer vos mind maps",
@@ -36,8 +36,8 @@
       "category": "theme",
       "tags": ["colors", "palettes", "theme", "design"],
       "icon": "🎨",
-      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/official/color-palettes-collection/dist/index.js",
-      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/official/color-palettes-collection/manifest.json",
+      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/cartae-plugins/main/official/color-palettes-collection/dist/index.js",
+      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/cartae-plugins/main/official/color-palettes-collection/manifest.json",
       "downloads": 1247,
       "rating": 4.8,
       "reviewCount": 156,
@@ -45,7 +45,7 @@
       "lastUpdated": "2025-10-29T23:00:00Z"
     },
     {
-      "id": "com.bigmind.dag-templates-collection",
+      "id": "com.cartae.dag-templates-collection",
       "name": "DAG Templates Collection",
       "version": "1.0.0",
       "description": "3 templates DAG professionnels pour démarrer rapidement vos projets",
@@ -57,8 +57,8 @@
       "category": "productivity",
       "tags": ["templates", "dag", "structures", "productivity"],
       "icon": "📋",
-      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/official/dag-templates-collection/dist/index.js",
-      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/official/dag-templates-collection/manifest.json",
+      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/cartae-plugins/main/official/dag-templates-collection/dist/index.js",
+      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/cartae-plugins/main/official/dag-templates-collection/manifest.json",
       "downloads": 892,
       "rating": 4.6,
       "reviewCount": 73,
@@ -66,7 +66,7 @@
       "lastUpdated": "2025-10-29T23:00:00Z"
     },
     {
-      "id": "com.bigmind.tags-manager",
+      "id": "com.cartae.tags-manager",
       "name": "Tags Manager",
       "version": "1.0.0",
       "description": "Organisez vos idées avec un système de tags puissant et flexible",
@@ -78,8 +78,8 @@
       "category": "productivity",
       "tags": ["tags", "organization", "filtering", "productivity", "workflow"],
       "icon": "🏷️",
-      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/official/tags-manager/dist/index.js",
-      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/official/tags-manager/manifest.json",
+      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/cartae-plugins/main/official/tags-manager/dist/index.js",
+      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/cartae-plugins/main/official/tags-manager/manifest.json",
       "downloads": 2458,
       "rating": 4.9,
       "reviewCount": 312,
@@ -87,7 +87,7 @@
       "lastUpdated": "2025-10-29T12:00:00Z"
     },
     {
-      "id": "com.bigmind.export-manager",
+      "id": "com.cartae.export-manager",
       "name": "Export Manager",
       "version": "1.0.0",
       "description": "Exportez vos mind maps dans tous les formats populaires",
@@ -99,8 +99,8 @@
       "category": "export",
       "tags": ["export", "save", "xmind", "interoperability", "backup"],
       "icon": "📤",
-      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/official/export-manager/dist/index.js",
-      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/official/export-manager/manifest.json",
+      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/cartae-plugins/main/official/export-manager/dist/index.js",
+      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/cartae-plugins/main/official/export-manager/manifest.json",
       "downloads": 3142,
       "rating": 4.7,
       "reviewCount": 428,
@@ -108,7 +108,7 @@
       "lastUpdated": "2025-10-29T12:00:00Z"
     },
     {
-      "id": "com.bigmind.palette-settings",
+      "id": "com.cartae.palette-settings",
       "name": "Palette Settings",
       "version": "1.0.0",
       "description": "Contrôlez vos palettes de couleurs depuis les paramètres",
@@ -120,8 +120,8 @@
       "category": "theme",
       "tags": ["settings", "palettes", "ui", "configuration", "productivity"],
       "icon": "🎨",
-      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/official/palette-settings/dist/index.js",
-      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/official/palette-settings/manifest.json",
+      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/cartae-plugins/main/official/palette-settings/dist/index.js",
+      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/cartae-plugins/main/official/palette-settings/manifest.json",
       "downloads": 1856,
       "rating": 4.5,
       "reviewCount": 187,
@@ -129,7 +129,7 @@
       "lastUpdated": "2025-10-29T12:00:00Z"
     },
     {
-      "id": "com.bigmind.palette-manager",
+      "id": "com.cartae.palette-manager",
       "name": "Palette Manager",
       "version": "1.0.0",
       "description": "Gérez les palettes de couleurs pour personnaliser automatiquement vos nœuds et tags",
@@ -141,8 +141,8 @@
       "category": "theme",
       "tags": ["colors", "palettes", "theme", "customization"],
       "icon": "🎨",
-      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/official/palette-manager/dist/index.js",
-      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/official/palette-manager/manifest.json",
+      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/cartae-plugins/main/official/palette-manager/dist/index.js",
+      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/cartae-plugins/main/official/palette-manager/manifest.json",
       "downloads": 2124,
       "rating": 4.6,
       "reviewCount": 265,
@@ -150,7 +150,7 @@
       "lastUpdated": "2025-10-29T12:00:00Z"
     },
     {
-      "id": "com.bigmind.dag-templates",
+      "id": "com.cartae.dag-templates",
       "name": "DAG Templates Manager",
       "version": "1.0.0",
       "description": "Gérez et appliquez des structures DAG prédéfinies pour démarrer vos projets",
@@ -162,8 +162,8 @@
       "category": "template",
       "tags": ["templates", "dag", "productivity", "structures"],
       "icon": "📋",
-      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/official/dag-templates/dist/index.js",
-      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/official/dag-templates/manifest.json",
+      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/cartae-plugins/main/official/dag-templates/dist/index.js",
+      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/cartae-plugins/main/official/dag-templates/manifest.json",
       "downloads": 1567,
       "rating": 4.4,
       "reviewCount": 142,
@@ -171,7 +171,7 @@
       "lastUpdated": "2025-10-29T12:00:00Z"
     },
     {
-      "id": "com.bigmind.analytics",
+      "id": "com.cartae.analytics",
       "name": "Plugin Analytics",
       "version": "1.0.0",
       "description": "Analyse et collecte des statistiques sur vos mindmaps (exemple)",
@@ -183,8 +183,8 @@
       "category": "developer",
       "tags": ["analytics", "statistics", "example"],
       "icon": "📊",
-      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/community/analytics/dist/index.js",
-      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/community/analytics/manifest.json",
+      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/cartae-plugins/main/community/analytics/dist/index.js",
+      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/cartae-plugins/main/community/analytics/manifest.json",
       "downloads": 0,
       "rating": 0,
       "reviewCount": 0,
@@ -192,7 +192,7 @@
       "lastUpdated": "2025-10-30T08:00:00Z"
     },
     {
-      "id": "com.bigmind.event-monitor",
+      "id": "com.cartae.event-monitor",
       "name": "Event Monitor",
       "version": "1.0.0",
       "description": "Capture et affiche tous les événements système pour le debug",
@@ -204,8 +204,8 @@
       "category": "developer",
       "tags": ["debug", "events", "monitoring", "developer"],
       "icon": "🔍",
-      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/community/event-monitor/dist/index.js",
-      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/community/event-monitor/manifest.json",
+      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/cartae-plugins/main/community/event-monitor/dist/index.js",
+      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/cartae-plugins/main/community/event-monitor/manifest.json",
       "downloads": 0,
       "rating": 0,
       "reviewCount": 0,
@@ -213,7 +213,7 @@
       "lastUpdated": "2025-10-30T08:00:00Z"
     },
     {
-      "id": "com.bigmind.example",
+      "id": "com.cartae.example",
       "name": "Plugin Exemple",
       "version": "1.0.0",
       "description": "Un plugin d'exemple pour démontrer les fonctionnalités du système",
@@ -225,8 +225,8 @@
       "category": "example",
       "tags": ["example", "demo", "tutorial"],
       "icon": "📚",
-      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/community/example/dist/index.js",
-      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/bigmind-plugins/main/community/example/manifest.json",
+      "downloadUrl": "https://raw.githubusercontent.com/guthubrx/cartae-plugins/main/community/example/dist/index.js",
+      "manifestUrl": "https://raw.githubusercontent.com/guthubrx/cartae-plugins/main/community/example/manifest.json",
       "downloads": 0,
       "rating": 0,
       "reviewCount": 0,

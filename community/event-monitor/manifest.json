@@ -1,5 +1,5 @@
 {
-  "id": "com.bigmind.event-monitor",
+  "id": "com.cartae.event-monitor",
   "name": "Event Monitor",
   "version": "1.0.0",
   "description": "Capture et affiche tous les événements système pour le debug",

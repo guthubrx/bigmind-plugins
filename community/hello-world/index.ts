@@ -3,7 +3,7 @@
  * A simple example plugin to demonstrate BigMind plugin capabilities
  */
 
-import type { IPluginContext } from '@bigmind/plugin-system';
+import type { IPluginContext } from '@cartae/plugin-system';
 
 export async function activate(context: IPluginContext): Promise<void> {
   console.log('👋 [Hello World] Plugin activated!');

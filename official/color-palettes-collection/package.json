@@ -1,5 +1,5 @@
 {
-  "name": "@bigmind/color-palettes-collection",
+  "name": "@cartae/color-palettes-collection",
   "version": "1.0.0",
   "description": "41 professional color palettes",
   "main": "dist/index.js",
@@ -8,7 +8,7 @@
     "dev": "vite build --watch"
   },
   "peerDependencies": {
-    "@bigmind/plugin-system": "*",
+    "@cartae/plugin-system": "*",
     "react": "^18.0.0"
   },
   "devDependencies": {

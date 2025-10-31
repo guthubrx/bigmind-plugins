@@ -1,5 +1,5 @@
 {
-  "name": "@bigmind/event-monitor",
+  "name": "@cartae/event-monitor",
   "version": "1.0.0",
   "description": "BigMind event-monitor plugin",
   "main": "dist/index.js",
@@ -8,7 +8,7 @@
     "dev": "vite build --watch"
   },
   "peerDependencies": {
-    "@bigmind/plugin-system": "*",
+    "@cartae/plugin-system": "*",
     "react": "^18.0.0"
   },
   "devDependencies": {

@@ -1,5 +1,5 @@
 {
-  "name": "@bigmind/example",
+  "name": "@cartae/example",
   "version": "1.0.0",
   "description": "BigMind example plugin",
   "main": "dist/index.js",
@@ -8,7 +8,7 @@
     "dev": "vite build --watch"
   },
   "peerDependencies": {
-    "@bigmind/plugin-system": "*",
+    "@cartae/plugin-system": "*",
     "react": "^18.0.0"
   },
   "devDependencies": {

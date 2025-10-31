@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-# Via BigMind Plugin Manager
+# Via Cartae Plugin Manager
 Recherchez "Color Palettes Collection" et cliquez sur Installer
 ```
 
@@ -23,4 +23,4 @@ Recherchez "Color Palettes Collection" et cliquez sur Installer
 
 ## License
 
-MIT - BigMind Team
+MIT - Cartae Team

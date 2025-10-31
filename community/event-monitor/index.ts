@@ -3,7 +3,7 @@
  * Captures all system events for debugging and monitoring
  */
 
-import type { IPluginContext, PluginManifest } from '@bigmind/plugin-system';
+import type { IPluginContext, PluginManifest } from '@cartae/plugin-system';
 
 // Global event store for the monitor
 export interface EventLogEntry {

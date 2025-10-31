@@ -10,12 +10,12 @@ export default defineConfig({
       formats: ['umd']
     },
     rollupOptions: {
-      external: ['react', 'react-dom', '@bigmind/plugin-system'],
+      external: ['react', 'react-dom', '@cartae/plugin-system'],
       output: {
         globals: {
           react: 'React',
           'react-dom': 'ReactDOM',
-          '@bigmind/plugin-system': 'BigMindPluginSystem'
+          '@cartae/plugin-system': 'BigMindPluginSystem'
         }
       }
     },

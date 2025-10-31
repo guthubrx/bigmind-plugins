@@ -1,6 +1,6 @@
 # Hello World Plugin
 
-A simple example plugin that demonstrates the BigMind plugin API.
+A simple example plugin that demonstrates the Cartae plugin API.
 
 ## Features
 
@@ -12,8 +12,8 @@ A simple example plugin that demonstrates the BigMind plugin API.
 ## Installation
 
 ```bash
-# Install via BigMind Plugin Manager
-# Or copy to BigMind plugins directory
+# Install via Cartae Plugin Manager
+# Or copy to Cartae plugins directory
 ```
 
 ## Development

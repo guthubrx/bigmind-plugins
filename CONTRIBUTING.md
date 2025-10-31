@@ -1,6 +1,6 @@
-# 🤝 Contributing to BigMind Plugins
+# 🤝 Contributing to Cartae Plugins
 
-Thank you for your interest in contributing to BigMind Plugins!
+Thank you for your interest in contributing to Cartae Plugins!
 
 ## 📋 Plugin Guidelines
 
@@ -46,8 +46,8 @@ Required fields:
 ### 1. Fork the Repository
 
 ```bash
-git clone https://github.com/guthubrx/bigmind-plugins.git
-cd bigmind-plugins
+git clone https://github.com/guthubrx/cartae-plugins.git
+cd cartae-plugins
 git checkout -b add-my-plugin
 ```
 
@@ -100,14 +100,14 @@ Then create a Pull Request on GitHub.
 
 ## 📖 Resources
 
-- [Plugin API Documentation](https://docs.bigmind.app/api)
-- [Plugin SDK](https://www.npmjs.com/package/@bigmind/plugin-sdk)
+- [Plugin API Documentation](https://docs.cartae.app/api)
+- [Plugin SDK](https://www.npmjs.com/package/@cartae/plugin-sdk)
 - [Example Plugins](./official/)
 
 ## 🐛 Bug Reports
 
-Please open an issue on the [main BigMind repository](https://github.com/guthubrx/bigmind/issues).
+Please open an issue on the [main Cartae repository](https://github.com/guthubrx/cartae/issues).
 
 ## 💬 Questions
 
-Join our [Discord community](https://discord.gg/bigmind) for questions and discussions.
+Join our [Discord community](https://discord.gg/cartae) for questions and discussions.

@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-# Via BigMind Plugin Manager
+# Via Cartae Plugin Manager
 Recherchez "DAG Templates Collection" et cliquez sur Installer
 ```
 
@@ -28,4 +28,4 @@ Phases de projet en cascade (Concept → Design → Dev → Test → Deploy)
 
 ## License
 
-MIT - BigMind Team
+MIT - Cartae Team

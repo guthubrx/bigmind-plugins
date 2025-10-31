@@ -1,12 +1,12 @@
-# 🧩 BigMind Plugins Repository
+# 🧩 Cartae Plugins Repository
 
-Official and community plugins for BigMind - the visual mind mapping and knowledge management tool.
+Official and community plugins for Cartae - the visual mind mapping and knowledge management tool.
 
 ## 📦 Structure
 
 ```
-bigmind-plugins/
-├── official/          # Official plugins maintained by BigMind team
+cartae-plugins/
+├── official/          # Official plugins maintained by Cartae team
 │   └── hello-world/  # Example plugin
 ├── community/         # Community-contributed plugins
 ├── tools/            # Build and validation tools
@@ -19,10 +19,10 @@ bigmind-plugins/
 
 ```bash
 # Clone this repository
-git clone https://github.com/guthubrx/bigmind-plugins.git
+git clone https://github.com/guthubrx/cartae-plugins.git
 
-# Install a plugin in BigMind
-# Copy the plugin folder to BigMind's plugins directory
+# Install a plugin in Cartae
+# Copy the plugin folder to Cartae's plugins directory
 ```
 
 ### Create a Plugin
@@ -54,8 +54,8 @@ npm run build official/hello-world
 
 ## 📖 Documentation
 
-- [Plugin Development Guide](https://docs.bigmind.app/plugins)
-- [API Reference](https://docs.bigmind.app/api)
+- [Plugin Development Guide](https://docs.cartae.app/plugins)
+- [API Reference](https://docs.cartae.app/api)
 - [Contributing Guidelines](./CONTRIBUTING.md)
 
 ## 📄 License
@@ -70,6 +70,6 @@ We welcome contributions! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for de
 
 ## 🔗 Links
 
-- [BigMind App](https://github.com/guthubrx/bigmind)
-- [Documentation](https://docs.bigmind.app)
-- [Plugin SDK](https://www.npmjs.com/package/@bigmind/plugin-sdk)
+- [Cartae App](https://github.com/guthubrx/cartae)
+- [Documentation](https://docs.cartae.app)
+- [Plugin SDK](https://www.npmjs.com/package/@cartae/plugin-sdk)

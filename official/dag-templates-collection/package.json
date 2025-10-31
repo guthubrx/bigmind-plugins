@@ -1,5 +1,5 @@
 {
-  "name": "@bigmind/dag-templates-collection",
+  "name": "@cartae/dag-templates-collection",
   "version": "1.0.0",
   "description": "3 professional DAG templates",
   "main": "dist/index.js",
@@ -8,7 +8,7 @@
     "dev": "vite build --watch"
   },
   "peerDependencies": {
-    "@bigmind/plugin-system": "*"
+    "@cartae/plugin-system": "*"
   },
   "devDependencies": {
     "typescript": "^5.0.0",
